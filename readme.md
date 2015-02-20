@@ -12,6 +12,6 @@ Replacements work across multiple selections.
 * Windows/Linux: `ctrl+shift+q`
 * OSX: `super+shift+q`
 
-** From the menu**
+**From the menu**
 
 You can apply the plugin from the selection menu.
