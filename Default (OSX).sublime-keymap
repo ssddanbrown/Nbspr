@@ -1,0 +1,5 @@
+[
+    { 
+        "keys": ["ctrl+super+q"], "command": "nbspr"
+    }
+]

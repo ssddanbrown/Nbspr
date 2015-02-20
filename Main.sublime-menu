@@ -1,0 +1,12 @@
+[
+{
+    "id": "selection",
+    "children":
+    [
+        {
+        	"command": "nbspr",
+        	"caption": "Convert spaces to &nbsp;"
+        }
+    ]
+}
+]
