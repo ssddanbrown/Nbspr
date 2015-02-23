@@ -1,9 +1,13 @@
 # Nbspr
 
-A super simple Sublime Text plugin for replacing all spaces in a selection with `&nbsp;` elements.
+A super simple Sublime Text plugin for swapping `&nbsp;` elements with normal spaces.
 
 
 Replacements work across multiple selections.
+
+## Installation
+
+Nbspr can be installed via sublime package control, Just search for 'Nbspr'.
 
 ## Usage
 
